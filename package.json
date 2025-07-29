@@ -1,12 +1,12 @@
 {
-  "name": "string-helper-tools",
+  "name": "string-modify-tools",
   "version": "1.0.0",
   "description": "A small utility to format strings, like capitalizeWords.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
-  "Github":"https://github.com/AstiPaladiya/String-Helper_tools-NPM-Module",
+  "Github":"https://github.com/AstiPaladiya/String_Modify_Tools_NPM_Module",
   "keywords": [
     "[\"string\"",
     "\"helper\"",
