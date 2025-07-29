@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "Github":"https://github.com/AstiPaladiya/String-Helper_tools-NPM-Module",
   "keywords": [
     "[\"string\"",
     "\"helper\"",
